@@ -7,6 +7,10 @@
    right: -670px;
 }
 
+ol {
+  padding-left: 1.5em;
+}
+
 @media (min-width: 858px) {
     html {
         font-size: 28px;
