@@ -9,31 +9,31 @@
 
 @media (min-width: 858px) {
     html {
-        font-size: 20px;
+        font-size: 24px;
     }
 }
 
 @media (min-width: 780px) {
     html {
-        font-size: 19px;
+        font-size: 23px;
     }
 }
 
 @media (min-width: 702px) {
     html {
-        font-size: 18px;
+        font-size: 22px;
     }
 }
 
 @media (min-width: 724px) {
     html {
-        font-size: 17px;
+        font-size: 21px;
     }
 }
 
 @media (max-width: 623px) {
     html {
-        font-size: 16px;
+        font-size: 20px;
     }
 }
 
