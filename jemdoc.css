@@ -10,35 +10,35 @@
 @media (min-width: 858px) {
     html {
         font-size: 28px;
-	margin-left: 0.9em;
+	margin-left: 1.3em;
     }
 }
 
 @media (min-width: 780px) {
     html {
         font-size: 27px;
-	margin-left: 0.9em;
+	margin-left: 1.3em;
     }
 }
 
 @media (min-width: 702px) {
     html {
         font-size: 26px;
-	margin-left: 0.9em;
+	margin-left: 1.3em;
     }
 }
 
 @media (min-width: 724px) {
     html {
         font-size: 25px;
-	margin-left: 0.9em;
+	margin-left: 1.3em;
     }
 }
 
 @media (max-width: 623px) {
     html {
         font-size: 24px;
-	margin-left: 0.9em;
+	margin-left: 1.3em;
     }
 }
 
