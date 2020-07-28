@@ -4,7 +4,7 @@
 .ribbon {
    position: relative;
    top: 10px;
-   right: -760px;
+   right: -700px;
 }
 
 @media (min-width: 858px) {
