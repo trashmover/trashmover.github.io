@@ -9,36 +9,36 @@
 
 @media (min-width: 858px) {
     html {
-        font-size: 24px;
-	margin-left: 0.5em;
+        font-size: 28px;
+	margin-left: 0.7em;
     }
 }
 
 @media (min-width: 780px) {
     html {
-        font-size: 23px;
-	margin-left: 0.5em;
+        font-size: 27px;
+	margin-left: 0.7em;
     }
 }
 
 @media (min-width: 702px) {
     html {
-        font-size: 22px;
-	margin-left: 0.5em;
+        font-size: 26px;
+	margin-left: 0.7em;
     }
 }
 
 @media (min-width: 724px) {
     html {
-        font-size: 21px;
-	margin-left: 0.5em;
+        font-size: 25px;
+	margin-left: 0.7em;
     }
 }
 
 @media (max-width: 623px) {
     html {
-        font-size: 20px;
-	margin-left: 0.5em;
+        font-size: 24px;
+	margin-left: 0.7em;
     }
 }
 
