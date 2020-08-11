@@ -8,7 +8,7 @@ for cur in content:
 
 
 for i in range(len(clean_content)):
-    cur = clean_content[i][len(str(i+1)) + 1:][2:]
+    cur = clean_content[i][len(str(i+1)) + 1:][1:]
     print("<li>" + cur + "</li>")
 
 
