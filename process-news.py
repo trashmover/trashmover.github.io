@@ -8,7 +8,7 @@ for cur in content:
 
 
 for i in range(len(clean_content)):
-    cur = clean_content[i][len(str(i+1)) + 1:][1:]
+    cur = clean_content[i][len(str(i+1)) + 1:][0:]
     print("<li>" + cur + "</li>")
 
 
@@ -16,6 +16,6 @@ from googletrans import Translator
 translator = Translator()
 
 for i in range(len(clean_content)):
-    cur = clean_content[i][len(str(i)) + 1:][2:]
+    cur = clean_content[i][len(str(i)) + 1:][0:]
     cur = translator.translate(cur)
     print("<li>" + cur.text + "</li>")
