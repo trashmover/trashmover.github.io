@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-feed
+title: 每日新闻
+description: 每日新闻 | Welcome to Daily News!
+author: Nuonuo2020
